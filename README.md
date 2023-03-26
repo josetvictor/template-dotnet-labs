@@ -38,3 +38,7 @@ dotnet test
 # Run the application which will be listening on port `5099`.
 dotnet run --project DotNetProject.Api
 ```
+
+## TODO
+
+[] Enable Health Check + Custom UI
