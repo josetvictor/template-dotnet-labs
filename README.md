@@ -19,14 +19,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 ## TODO
 
-[] Lorem ipsum dolor sit amet
+- [ ] Lorem ipsum dolor sit amet
 
 ## Compatible IDEs
 
 Tested on:
 
 - VS Code
-- Rider
 
 ## Useful commands
 
@@ -34,19 +33,19 @@ From the terminal/shell/command line tool, use the following commands to build, 
 
 - ### Build the project
 
-```powershell
+```shell
 dotnet build
 ```
 
 - ### Run the tests
 
-```powershell
+```shell
 dotnet test
 ```
 
 - ### Run the application
 
-```powershell
+```shell
 # Run the application which will be listening on port `5099`.
 dotnet run --project <<PROJECT_PATH>>
 ```
